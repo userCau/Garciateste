@@ -4,7 +4,7 @@ server:
 spring:
     datasource:
         url: jdbc:postgresql://dpg-cstjtrtds78s73cjvl70-a.oregon-postgres.render.com:5432/banco_wwop
-        username: postgres
+        username: banco_wwop_user
         password: 0qBEhyKlLNqZXtkeCqOICmht1L2QZ6Pl
         driver-class-name: org.postgresql.Driver
         initialize: true
